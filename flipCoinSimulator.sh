@@ -1,6 +1,6 @@
 #!/bin/bash
 
-read -p "Enter Limit to win :" Limit
+Limit=21
 
 while [ true ]
 do
